@@ -11,7 +11,7 @@ st.set_page_config(
 st.title("AI-INTERVIEW-ASSISTANT")
 st.caption(
     "Practice interviews with AI-generated questions "
-    "and constructive feedback - Swathi m AI&DS."
+    "and constructive feedback - Nubiya Fathima AI&DS."
 )
 
 # Groq API connection
